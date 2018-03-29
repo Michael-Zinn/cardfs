@@ -11,6 +11,8 @@ Supported decks:
 | quartett | A1 to H4 | 14 bytes |
 | tarot | 0 to XXI | 8 bytes |
 
+More details in [this blog post](https://steemit.com/software/@michaelzinn/store-text-in-a-deck-of-cards).
+
 ## How to use
 
 ### Encode examples
